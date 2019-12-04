@@ -1,0 +1,16 @@
+{
+  "name": "colorful-game-snake",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsseixaso/colorful-snake-game.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react-scripts": "3.2.0"
+  }
+}
